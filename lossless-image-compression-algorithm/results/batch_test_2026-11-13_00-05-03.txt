@@ -1,0 +1,31 @@
+==========================================================================================
+             BINARY BITSTREAM LOSSLESS IMAGE COMPRESSION REPORT
+==========================================================================================
+Date & Time:           2026-11-13 00:06:00
+Format:                LIC5 (Contours + Flood Fill + Morton + Delta + LZMA)
+Images Processed:      11 of 11 available
+Fidelity Verification: Enabled (All tests verified bit-for-bit)
+------------------------------------------------------------------------------------------
+Filename                               | Dimensions | Original   | Compressed | Ratio   | Time    | Lossless
+------------------------------------------------------------------------------------------
+Screenshot From 2026-11-12 01-23-25.png | 698x967    | 177,268 B  | 119,400 B   |   67.4% |   1.00s | YES
+Screenshot From 2026-11-12 01-25-52.png | 642x885    | 314,798 B  | 262,692 B   |   83.4% |   1.36s | YES
+Screenshot From 2026-11-12 01-26-00.png | 642x885    | 258,792 B  | 167,992 B   |   64.9% |   1.39s | YES
+Screenshot From 2026-11-12 01-26-09.png | 642x885    | 312,541 B  | 247,984 B   |   79.3% |   0.91s | YES
+Screenshot From 2026-11-12 01-26-18.png | 642x885    | 127,692 B  |  72,792 B   |   57.0% |   0.41s | YES
+Screenshot From 2026-11-12 01-26-28.png | 638x844    | 252,149 B  | 201,420 B   |   79.9% |   0.86s | YES
+Screenshot From 2026-11-12 01-26-46.png | 638x844    |  86,225 B  |  58,324 B   |   67.6% |   0.37s | YES
+Screenshot From 2026-11-12 01-27-00.png | 638x844    | 277,084 B  | 225,180 B   |   81.3% |   0.89s | YES
+cdd20-cartoon-5266407.png              | 3000x3000  | 385,804 B  | 219,760 B   |   57.0% |  11.98s | YES
+cute-cat-relaxing-cozy-mat.png         | 1500x2000  | 2,449,768 B  | 2,402,192 B   |   98.1% |  16.69s | YES
+image_test_9_prime.png                 | 579x782    | 236,863 B  |  92,656 B   |   39.1% |   0.64s | YES
+------------------------------------------------------------------------------------------
+SUMMARY STATISTICS:
+  Total Images Processed:   11
+  Successful Reductions:    11 (100.0%)
+  Total Original Size:      4,878,984 bytes (4764.63 KB)
+  Total Compressed Size:    4,070,392 bytes (3974.99 KB)
+  Net Space Difference:     +808,592 bytes (+16.6%)
+  Total Compression Time:   36.51s (avg 3.319s/img)
+  Fidelity Failures:        0 (Exact 100% matches: 11)
+==========================================================================================

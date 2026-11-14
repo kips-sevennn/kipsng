@@ -1,0 +1,34 @@
+==========================================================================================
+             BINARY BITSTREAM LOSSLESS IMAGE COMPRESSION REPORT
+==========================================================================================
+Date & Time:           2026-11-12 01:57:34
+Format:                Binary Bitstream (Varint + Delta + Line Reduction + LZMA)
+Images Processed:      14 of 14 available
+Fidelity Verification: Enabled (All tests verified bit-for-bit)
+------------------------------------------------------------------------------------------
+Filename                               | Dimensions | Original   | Compressed | Ratio   | Time    | Lossless
+------------------------------------------------------------------------------------------
+Screenshot From 2026-11-12 01-23-25.png | 698x967    | 177,268 B  | 132,916 B   |   75.0% |   2.44s | YES
+Screenshot From 2026-11-12 01-25-52.png | 642x885    | 314,798 B  | 273,936 B   |   87.0% |   2.26s | YES
+Screenshot From 2026-11-12 01-26-00.png | 642x885    | 258,792 B  | 182,324 B   |   70.5% |   2.23s | YES
+Screenshot From 2026-11-12 01-26-09.png | 642x885    | 312,541 B  | 258,348 B   |   82.7% |   2.23s | YES
+Screenshot From 2026-11-12 01-26-18.png | 642x885    | 127,692 B  |  80,692 B   |   63.2% |   1.95s | YES
+Screenshot From 2026-11-12 01-26-28.png | 638x844    | 252,149 B  | 214,328 B   |   85.0% |   2.08s | YES
+Screenshot From 2026-11-12 01-26-46.png | 638x844    |  86,225 B  |  64,616 B   |   74.9% |   1.82s | YES
+Screenshot From 2026-11-12 01-27-00.png | 638x844    | 277,084 B  | 238,880 B   |   86.2% |   2.14s | YES
+cdd20-cartoon-5266407.png              | 3000x3000  | 385,804 B  | 274,580 B   |   71.2% |  29.34s | YES
+cute-cat-relaxing-cozy-mat.png         | 1500x2000  | 2,449,768 B  | 2,614,188 B   |  106.7% |  16.85s | YES
+cute-kitten-cartoon-walking-nature.jpg | 3840x5120  | 5,594,324 B  | 14,701,964 B   |  262.8% | 129.20s | YES
+image_test_9.jpg                       | 710x948    |  83,948 B  | 365,772 B   |  435.7% |   3.06s | YES
+image_test_9_prime.png                 | 579x782    | 236,863 B  | 101,520 B   |   42.9% |   1.77s | YES
+pedroml-coloring-page-8576505.jpg      | 3328x4864  | 1,924,487 B  | 7,512,392 B   |  390.4% |  83.61s | YES
+------------------------------------------------------------------------------------------
+SUMMARY STATISTICS:
+  Total Images Processed:   14
+  Successful Reductions:    10 (71.4%)
+  Total Original Size:      12,481,743 bytes (12189.20 KB)
+  Total Compressed Size:    27,016,456 bytes (26383.26 KB)
+  Net Space Difference:     -14,534,713 bytes (-116.4%)
+  Total Compression Time:   280.99s (avg 20.071s/img)
+  Fidelity Failures:        0 (Exact 100% matches: 14)
+==========================================================================================

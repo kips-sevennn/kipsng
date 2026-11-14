@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local trash or temporary folders
+extracted_chat_history.md
+improvements.md
+
+# OS generated files
+.DS_Store
+Thumbs.db

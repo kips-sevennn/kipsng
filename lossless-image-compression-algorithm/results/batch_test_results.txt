@@ -1,0 +1,30 @@
+=====================================================================================
+                 LOSSLESS IMAGE COMPRESSION BATCH TEST REPORT
+=====================================================================================
+Date & Time:           2026-11-12 01:46:29
+Images Processed:      11 of 11 available
+Fidelity Verification: Enabled (All tests verified bit-for-bit)
+-------------------------------------------------------------------------------------
+Filename                            | Dimensions | Original  | Compressed | Ratio   | Time (s) | Lossless
+-------------------------------------------------------------------------------------
+Screenshot From 2026-11-12 01-23-25.png | 698x967    | 177268 B   | 229428 B    |  129.4% |    2.48s | YES
+Screenshot From 2026-11-12 01-25-52.png | 642x885    | 314798 B   | 346992 B    |  110.2% |    2.38s | YES
+Screenshot From 2026-11-12 01-26-00.png | 642x885    | 258792 B   | 305488 B    |  118.0% |    2.33s | YES
+Screenshot From 2026-11-12 01-26-09.png | 642x885    | 312541 B   | 306496 B    |   98.1% |    2.39s | YES
+Screenshot From 2026-11-12 01-26-18.png | 642x885    | 127692 B   | 112940 B    |   88.4% |    2.07s | YES
+Screenshot From 2026-11-12 01-26-28.png | 638x844    | 252149 B   | 269936 B    |  107.1% |    2.33s | YES
+Screenshot From 2026-11-12 01-26-46.png | 638x844    |  86225 B   |  84388 B    |   97.9% |    1.91s | YES
+Screenshot From 2026-11-12 01-27-00.png | 638x844    | 277084 B   | 290068 B    |  104.7% |    2.34s | YES
+cdd20-cartoon-5266407.png           | 3000x3000  | 385804 B   | 414536 B    |  107.4% |   28.89s | YES
+cute-cat-relaxing-cozy-mat.png      | 1500x2000  | 2449768 B   | 3919292 B    |  160.0% |   20.86s | YES
+image_test_9_prime.png              | 579x782    | 236863 B   | 135300 B    |   57.1% |    1.79s | YES
+-------------------------------------------------------------------------------------
+SUMMARY STATISTICS:
+  Total Images Treated:     11
+  Successful Reductions:    4 (36.4%)
+  Total Original Size:      4,878,984 bytes (4764.63 KB)
+  Total Compressed Size:    6,414,864 bytes (6264.52 KB)
+  Net Space Difference:     -1,535,880 bytes (-31.5%)
+  Total Compression Time:   69.79 seconds (avg 6.344s/img)
+  Fidelity Failures:        0 (Exact 100% matches: 11)
+=====================================================================================
